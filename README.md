@@ -25,7 +25,7 @@
 ## 💼 About Me
 
 - 🎓 <b>ML/AI Engineer in the making</b> with hands-on Python, SQL, NLP, and Machine Learning  
-- 💼 <b>Ex-KYC Analyst</b> at Khatabook | Previous: Home Credit, Sara Suole, Perycap  
+- 💼 <b>Analyst</b> at Khatabook | Previous: Home Credit, Sara Suole, Perycap  
 - 🌟 Skilled in end-to-end data projects, model building, and insightful dashboards  
 - 🚀 <b>Always learning</b>: AI, LLMs, DataViz, Automation  
 - 🤝 Open-source & collaboration enthusiast

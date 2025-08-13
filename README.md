@@ -66,7 +66,7 @@
 - [NLP Sentiment Classifier](https://github.com/vivek7557/NLP-Sentiment-Classifier)
 - [Movie Recommender System](https://github.com/vivek7557/Movie-Recommender)
 - [Deep Learning Image Classifier](https://github.com/vivek7557/Image-Classifier)
-- [OPENAI-SANDBOX](https://github.com/vivek7557/OPENAI-SANDBOX)
+- [openai-sandbox](https://github.com/vivek7557/OPENAI-SANDBOX)
 
 
 ---

@@ -65,8 +65,8 @@
 
 - [NLP Sentiment Classifier](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/reddit%20sentiment%20analysis/reddit%20sentiment%20analysis%20.ipynb)
 - [Fraud detection](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/fraud_detection/fraud-detection-analysis.ipynb)
-- [Movie Recommender System](https://github.com/vivek7557/Movie-Recommender)
-- [Deep Learning Image Classifier](https://github.com/vivek7557/Image-Classifier)
+- [Movie Recommender System](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/Advanced%20Recommender%20Systems%20with%20Python/Advanced%20Recommender%20Systems%20with%20Python%20.ipynb)
+- [Deep Learning Image Classifier](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/keran%20deep%20learning%20model/Keras-Syntax-Basics%20.ipynb)
 - [Openai-Sandbox](https://github.com/vivek7557/OPENAI-SANDBOX)
 
 

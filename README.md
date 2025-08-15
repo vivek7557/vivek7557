@@ -63,7 +63,7 @@
 
 ## 🌟 Featured Projects
 
-- [NLP Sentiment Classifier](https://github.com/vivek7557/NLP-Sentiment-Classifier)
+- [NLP Sentiment Classifier](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/reddit%20sentiment%20analysis/reddit%20sentiment%20analysis%20.ipynb)
 - [Fraud detection](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/fraud_detection/fraud-detection-analysis.ipynb)
 - [Movie Recommender System](https://github.com/vivek7557/Movie-Recommender)
 - [Deep Learning Image Classifier](https://github.com/vivek7557/Image-Classifier)

@@ -64,6 +64,7 @@
 ## 🌟 Featured Projects
 
 - [NLP Sentiment Classifier](https://github.com/vivek7557/NLP-Sentiment-Classifier)
+- [Fraud detection](https://github.com/vivek7557/Image-Classifier)
 - [Movie Recommender System](https://github.com/vivek7557/Movie-Recommender)
 - [Deep Learning Image Classifier](https://github.com/vivek7557/Image-Classifier)
 - [Openai-Sandbox](https://github.com/vivek7557/OPENAI-SANDBOX)

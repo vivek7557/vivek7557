@@ -68,6 +68,7 @@
 - [Movie Recommender System](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/Advanced%20Recommender%20Systems%20with%20Python/Advanced%20Recommender%20Systems%20with%20Python%20.ipynb)
 - [Deep Learning Image Classifier](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/keran%20deep%20learning%20model/Keras-Syntax-Basics%20.ipynb)
 - [Openai-Sandbox](https://github.com/vivek7557/OPENAI-SANDBOX)
+- [Uber Riding Analytics ML 100%](https://github.com/vivek7557/Machine-learning-projects/blob/main/machine%20learning%20projects/uber%20riding%20analytics%20ml%20100%25/uber-ride%20(1)%20(1).ipynb)
 
 
 ---
